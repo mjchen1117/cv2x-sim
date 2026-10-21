@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 运行产生的临时帧图（结果图由脚本生成）
+results/frame_*.png
+
+# macOS / Windows 杂项
+.DS_Store
+Thumbs.db
